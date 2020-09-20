@@ -1,0 +1,40 @@
+# Machine Learning Topics
+'''
+Regression
+Classification
+Clustering
+Decision Trees
+Random Forests
+Ensmeble Leaning Methods
+Dimensionality Redcution
+Support Vector Machines
+Boosting ALgorithms
+Density based Scanning
+Bias-Variance
+Evalutation Metrics (precision, recall, F1, ROC Curve, AOC score)
+'''
+# Deep Learning
+'''
+Tensorflow
+Natural language processing
+Backpropagation
+ConvNet
+Recurent Neural networks
+Generative Adversarial networks
+Batch Normalization
+Transfer Learning
+Hyperparameter tuning
+Data Augmentation
+Optimization (adam, RMS, RMSProp)
+'''
+# Big Data Analysis
+'''
+Hadoop
+Apache Spark
+'''
+# Computer Vision
+'''
+Image tagging
+Pose estimation
+Image Classification
+'''
