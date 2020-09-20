@@ -17,6 +17,8 @@
 
 * Backpropagation
 * ConvNet
+* Tensorflow
+* Natural language Processing
 * Recurant Neural Network
 * Generative Adversarial Network
 * Batch Normalization
